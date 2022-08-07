@@ -1,4 +1,5 @@
 /**
+* We are using Foundry for the blockchain and running it as local docker image: anvil - https://github.com/foundry-rs/foundry
 * Example to store and retrive in the blockchain:
 * 1. Run anvil - to start the blockchain
 2. forge create Contract --private-key $PRIV_KEY
